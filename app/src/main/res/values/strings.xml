@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Practice</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_starred">Starred</string>
+    <string name="title_empty">Empty</string>
+    <string name="title_addrecords">Addrecords</string>
+    <string name="title_search">Search</string>
+    <string name="title_settings">Settings</string>
+</resources>
